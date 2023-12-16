@@ -1,4 +1,4 @@
-# Analysis-of-Transfer-Learning-for-Image-Classification-on-Sparse-Data 🌐📸
+# Analysis-of-Transfer-Learning-for-Image-Classification-on-Sparse-Data
 
 ## Overview 📝
 This repository contains the code and findings of a comprehensive analysis of transfer learning for image classification on sparse datasets.
@@ -13,5 +13,8 @@ This repository contains the code and findings of a comprehensive analysis of tr
 - Identified the crucial role of feature extraction in the success of transfer learning.
 - Found that the combination of fine-tuning and data augmentation is effective, especially in limited data scenarios.
 - Lightweight models outperformed largescale models in fine-tuning + data augmentation with limited data.
+
+## Getting started 
+- Download and run the notebook files
 
 
