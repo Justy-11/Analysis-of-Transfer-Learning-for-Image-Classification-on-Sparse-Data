@@ -3,6 +3,11 @@
 ## Overview 📝
 This repository contains the code and findings of a comprehensive analysis of transfer learning for image classification on sparse datasets.
 
+## Research Problem 🔍
+- Identifying the key components influencing transfer learning success.
+- Choosing the most suitable model for sparse data scenarios.
+- Addressing the limitations of previous works regarding diversity and generalizability.
+
 ## What I Did 
 - Conducted a thorough analysis using four pretrained models (MobileNetV2, MobileNetV3Large, EfficientNetB0, and EfficientNetB5).
 - Applied transfer learning to two diverse datasets: skin disease classification (multiclass) and waste classification (binary).
