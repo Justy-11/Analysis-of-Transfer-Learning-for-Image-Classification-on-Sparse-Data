@@ -38,7 +38,7 @@ Where:
 - Total True Positives: The sum of the true positives for each class.
 - Total Number of Samples: The total number of samples across all classes.
 
-Referred from - [Accuracy, precision, and recall in multi-class classification]([https://github.com/hanzhanggit/StackGAN](https://www.evidentlyai.com/classification-metrics/multi-class-metrics#:~:text=However%2C%20to%20calculate%20accuracy%2C%20we,%E2%80%9Cblind%E2%80%9D%20to%20specific%20classes.&text=To%20calculate%20accuracy%2C%20divide%20all,37%2F45%20%3D%2082%25.)https://www.evidentlyai.com/classification-metrics/multi-class-metrics#:~:text=However%2C%20to%20calculate%20accuracy%2C%20we,%E2%80%9Cblind%E2%80%9D%20to%20specific%20classes.&text=To%20calculate%20accuracy%2C%20divide%20all,37%2F45%20%3D%2082%25.)
+Referred from - [Accuracy, precision, and recall in multi-class classification](https://www.evidentlyai.com/classification-metrics/multi-class-metrics#:~:text=However%2C%20to%20calculate%20accuracy%2C%20we,%E2%80%9Cblind%E2%80%9D%20to%20specific%20classes.&text=To%20calculate%20accuracy%2C%20divide%20all,37%2F45%20%3D%2082%25.)
 
 ## Getting started 
 - Download and run the notebook files
