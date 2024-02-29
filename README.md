@@ -18,7 +18,7 @@
 - Lightweight models outperformed largescale models in fine-tuning + data augmentation with limited data.
 
 ## Accuracy Calculation in Binary and Multiclass Classification
-### Binary Classification
+#### Binary Classification
 
 In binary classification, accuracy is calculated using True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN). The formula for accuracy in binary classification is: Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
@@ -30,15 +30,13 @@ Where:
 
 This formula represents the ratio of correctly classified instances (both positive and negative) to the total number of instances.
 
-## Multiclass Classification
+#### Multiclass Classification
 
 In multiclass classification, accuracy is calculated differently. You sum up the True Positives (TP) for each class and then divide by the total number of samples. The formula for accuracy in multiclass classification is: Accuracy = Total True Positives / Total Number of Samples
 
 Where:
 - Total True Positives: The sum of the true positives for each class.
 - Total Number of Samples: The total number of samples across all classes.
-
-These two methods are distinct and apply to different types of classification problems.
 
 ## Getting started 
 - Download and run the notebook files
